@@ -19,11 +19,11 @@ Whether you're condensing blog posts, academic papers, or lengthy notes, this to
 
 🚀 How to Run
 1) Clone the repository
-               - git clone https://github.com/your-username/your-repo-name.git cd your-repo-name
+               -> git clone https://github.com/your-username/your-repo-name.git cd your-repo-name
 
 2) Install dependencies
-               - pip install -r requirements.txt
+               -> pip install -r requirements.txt
 
-3) Run the app
-               - streamlit run (absolute path of the python file)  
+3) Run the app (run in terminal)
+               -> streamlit run (absolute path of the python file)  
 
