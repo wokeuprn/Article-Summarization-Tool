@@ -26,3 +26,4 @@ Whether you're condensing blog posts, academic papers, or lengthy notes, this to
 
 3) Run the app
                streamlit run (absolute path of the python file)  
+
