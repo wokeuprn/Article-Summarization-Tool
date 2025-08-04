@@ -1,4 +1,4 @@
-📝 Article Summarizer using NLP
+###📝 Article Summarizer using NLP
 
 This is a simple and interactive Article Summarizer Web App developed as part of an AI internship project. It leverages NLP (Natural Language Processing) techniques to summarize long texts using a transformer-based model. Built with Streamlit and Hugging Face Transformers, the app lets users paste large paragraphs or articles and returns a well-formed summary in seconds.
 Whether you're condensing blog posts, academic papers, or lengthy notes, this tool helps extract key information quickly and efficiently.
